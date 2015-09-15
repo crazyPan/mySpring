@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>	
+	<bean class="entity.ObjectAImpl" id="objectA">
+		<property name="b" value="entity.ObjectCImpl"/>
+	</bean>
+</beans>
